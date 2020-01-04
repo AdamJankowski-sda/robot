@@ -1,0 +1,3 @@
+public enum RuchRobota {
+    KROK_LEWA, KROK_PRAWA, RUCH_REKA_LEWA, RUCH_REKA_PRAWA, SKOK
+}
